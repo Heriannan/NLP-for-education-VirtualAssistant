@@ -1,0 +1,247 @@
+﻿text,label
+requirement of assessments,ASSESSMENT_INFO
+requirement of asm,ASSESSMENT_INFO
+requirement of assignment,ASSESSMENT_INFO
+Any requirement of assignments,ASSESSMENT_INFO
+Is there any assignment,ASSESSMENT_INFO
+Is there any assessment,ASSESSMENT_INFO
+What the assessments do,ASSESSMENT_INFO
+What the assignment do,ASSESSMENT_INFO
+Give more details about the assignments,ASSESSMENT_INFO
+What is the contents of the assignments,ASSESSMENT_INFO
+What do I need to do in the assignments,ASSESSMENT_INFO
+when to submit assessments,ASSESSMENT_INFO
+when do I need to submit the assignments,ASSESSMENT_INFO
+what is the deadline of the assignments ,ASSESSMENT_INFO
+When do the assignments have to be completed?,ASSESSMENT_INFO
+When do the homework have to be completed?,ASSESSMENT_INFO
+what is the type of assessments,ASSESSMENT_INFO
+what is the type of asm,ASSESSMENT_INFO
+what is the type of assignments,ASSESSMENT_INFO
+What types of tasks need to do,ASSESSMENT_INFO
+What types of asm need to do,ASSESSMENT_INFO
+What types of assessments need to do,ASSESSMENT_INFO
+What kinds of asm have,ASSESSMENT_INFO
+What kinds of assignments have,ASSESSMENT_INFO
+Is there any project,ASSESSMENT_INFO
+Is there any asm,ASSESSMENT_INFO
+what is the weighting of the assessments,ASSESSMENT_INFO
+what is the weighting of the assignments,ASSESSMENT_INFO
+Is the assignments important,ASSESSMENT_INFO
+Is the assessments important,ASSESSMENT_INFO
+what is the score of the assessments,ASSESSMENT_INFO
+what is the score of the assignments,ASSESSMENT_INFO
+What is this course about,COURSE_DESP
+Can you give more details about the course,COURSE_DESP
+Can you describe the course,COURSE_DESP
+What is the purpose of this course,COURSE_DESP
+What can I learn in this class,COURSE_DESP
+course description,COURSE_DESP
+tell me something about the course,COURSE_DESP
+brifely describe the course,COURSE_DESP
+course aims,COURSE_DESP
+aims of the course,COURSE_DESP
+the objectives of course,COURSE_DESP
+course overview,COURSE_DESP
+lectures overview,COURSE_DESP
+What is the purpose of the course,COURSE_DESP
+why I need to register this course,COURSE_DESP
+what can I learn ,COURSE_DESP
+what can I learn from the course,COURSE_DESP
+what is the course's goal?,COURSE_DESP
+what is the course's primary objective?,COURSE_DESP
+what is the course's target?,COURSE_DESP
+what are the course's outcomes?,COURSE_DESP
+What is the name of this course,COURSE_NAME
+what is the course name,COURSE_NAME
+the name of the course is,COURSE_NAME
+What is the title of the course,COURSE_NAME
+What is the course's full title?,COURSE_NAME
+course title,COURSE_NAME
+What should I call the course,COURSE_NAME
+name of the course,COURSE_NAME
+course name,COURSE_NAME
+how to call the course,COURSE_NAME
+What's the title of the course,COURSE_NAME
+What should the course be called?,COURSE_NAME
+What should the course be titled?,COURSE_NAME
+how should I call this course,COURSE_NAME
+equivalent course,COURSE_REGISTRATION
+exculed course,COURSE_REGISTRATION
+exclusive course,COURSE_REGISTRATION
+precursors of course,COURSE_REGISTRATION
+prerequisites of course,COURSE_REGISTRATION
+requirement of course register,COURSE_REGISTRATION
+information of course registration,COURSE_REGISTRATION
+Is there any same level course,COURSE_REGISTRATION
+Is there any equivalent courses,COURSE_REGISTRATION
+Is it possible to find courses that are exactly equivalent?,COURSE_REGISTRATION
+Is it possible to find courses that are fairly similar?,COURSE_REGISTRATION
+Is there a course at the same level?,COURSE_REGISTRATION
+Is there a course at the same standard?,COURSE_REGISTRATION
+Is there any restriction for register this course,COURSE_REGISTRATION
+Is there any exclusive courses ,COURSE_REGISTRATION
+Is there any recommend coures to study first ,COURSE_REGISTRATION
+what course is suggested to study first,COURSE_REGISTRATION
+Is there any precursors,COURSE_REGISTRATION
+is there any requirement need to fulfill before register the course,COURSE_REGISTRATION
+Is there any prerequisites ,COURSE_REGISTRATION
+should I register this course,COURSE_REGISTRATION
+am I able to study this course,COURSE_REGISTRATION
+"if I studied cs 1102, can I study this?",COURSE_REGISTRATION
+"if I studied ss 2202, can I study this?",COURSE_REGISTRATION
+"if I studied cb2200, can I study this?",COURSE_REGISTRATION
+"if I studied cs3342, can I study this?",COURSE_REGISTRATION
+"if I studied ee1122 , can I study this?",COURSE_REGISTRATION
+"if I studied ss 6789, can I study this?",COURSE_REGISTRATION
+Can I study this course if I already take cs 1102,COURSE_REGISTRATION
+Can I study this course if I already take ss 1103,COURSE_REGISTRATION
+Can I study this course if I already take ee 1104,COURSE_REGISTRATION
+When should I come to school,COURSE_START_DAY
+When the course start,COURSE_START_DAY
+When does the course begin?,COURSE_START_DAY
+course start,COURSE_START_DAY
+course first day,COURSE_START_DAY
+first teaching day,COURSE_START_DAY
+When will the course begin?,COURSE_START_DAY
+when is the first teaching day,COURSE_START_DAY
+when the teaching start,COURSE_START_DAY
+When is the first day of classes?,COURSE_START_DAY
+When is the first day of lessons?,COURSE_START_DAY
+When is the first day of training sessions?,COURSE_START_DAY
+When is the first day of university courses?,COURSE_START_DAY
+When is the first week of lessons?,COURSE_START_DAY
+When is day one of lessons?,COURSE_START_DAY
+teaching date,COURSE_START_DAY
+When does the program begin?,COURSE_START_DAY
+the start day of the course is,COURSE_START_DAY
+When should I come to class,COURSE_START_DAY
+When will the course start,COURSE_START_DAY
+describe the syllabus,COURSE_SYLLABUS
+what is the course syllabus,COURSE_SYLLABUS
+the syllabuses are,COURSE_SYLLABUS
+course structure,COURSE_SYLLABUS
+Will it cover the topic about,COURSE_SYLLABUS
+what topic will be covered,COURSE_SYLLABUS
+Will it cover the topic about fin tech,COURSE_SYLLABUS
+Will it cover the topic about tech,COURSE_SYLLABUS
+Will it cover the topic about science,COURSE_SYLLABUS
+Will it cover the topic about math,COURSE_SYLLABUS
+Will it cover the topic about programming,COURSE_SYLLABUS
+Will it cover the topic about history,COURSE_SYLLABUS
+tell me the syllabus,COURSE_SYLLABUS
+how many syllabus,COURSE_SYLLABUS
+how many topic will be covered,COURSE_SYLLABUS
+what is the course's syllabus?,COURSE_SYLLABUS
+What is the syllabus for the course?,COURSE_SYLLABUS
+What is the curriculum for the course?,COURSE_SYLLABUS
+What is the agenda for the course?,COURSE_SYLLABUS
+What is the lesson plan for the course?,COURSE_SYLLABUS
+schedule of lecture,COURSE_SYLLABUS
+agenda of lecture ,COURSE_SYLLABUS
+curriculum of the lecture,COURSE_SYLLABUS
+course curriculum,COURSE_SYLLABUS
+tell me the curriculum,COURSE_SYLLABUS
+tell me the lesson plan,COURSE_SYLLABUS
+how the course is structured,COURSE_SYLLABUS
+does it have any credit,CREDIT_UNIT
+How many credits for this course ,CREDIT_UNIT
+What is the total number of credits for this course?,CREDIT_UNIT
+credit unit of this course,CREDIT_UNIT
+any credit units,CREDIT_UNIT
+This course is worth how many credits?,CREDIT_UNIT
+What is the number of credits for this course?,CREDIT_UNIT
+"For this course, how many credits can be earned?",CREDIT_UNIT
+This course has how many credit,CREDIT_UNIT
+credit of this cs2333 course,CREDIT_UNIT
+credit units of this course,CREDIT_UNIT
+earned credit units,CREDIT_UNIT
+unit of credit that I can earn in this course,CREDIT_UNIT
+credit unit,CREDIT_UNIT
+credits,CREDIT_UNIT
+area of this course,GE_PROPOSED_AREA
+ge courses,GE_PROPOSED_AREA
+area of the course,GE_PROPOSED_AREA
+is it a general requirement course ,GE_PROPOSED_AREA
+Is it a ge,GE_PROPOSED_AREA
+Is it a ge course,GE_PROPOSED_AREA
+Is is area 3,GE_PROPOSED_AREA
+Is it area 2,GE_PROPOSED_AREA
+Is it area 1,GE_PROPOSED_AREA
+Is is area three course,GE_PROPOSED_AREA
+Is it area two course,GE_PROPOSED_AREA
+Is it area one course,GE_PROPOSED_AREA
+Is it a major course,GE_PROPOSED_AREA
+ge course,GE_PROPOSED_AREA
+ge,GE_PROPOSED_AREA
+what is its area,GE_PROPOSED_AREA
+ge area,GE_PROPOSED_AREA
+electives,GE_PROPOSED_AREA
+is it a electives,GE_PROPOSED_AREA
+electives course,GE_PROPOSED_AREA
+is it belong to area 3 course,GE_PROPOSED_AREA
+course electives,GE_PROPOSED_AREA
+area one course,GE_PROPOSED_AREA
+area two course,GE_PROPOSED_AREA
+area three course,GE_PROPOSED_AREA
+Is it a general requirement,GE_PROPOSED_AREA
+language that professor use,MEDIUM
+what professor speak in lecture,MEDIUM
+language of the assessments need to used,MEDIUM
+do I need to write english,MEDIUM
+What language for the assignments,MEDIUM
+What language should the assignments be written in?,MEDIUM
+Which language should be used for the tasks?,MEDIUM
+Which language should the tasks be completed in?,MEDIUM
+assignment language,MEDIUM
+language of the assignment,MEDIUM
+Which language should be used for the assignement?,MEDIUM
+What language would be used to teach,MEDIUM
+What language will the teacher speak,MEDIUM
+What kind of language would be utilized to instruct?,MEDIUM
+What would be the language of instruction?,MEDIUM
+What will the teacher's native language be?,MEDIUM
+What would the instruction language be?,MEDIUM
+What language would be used to communicate?,MEDIUM
+What would be the teaching language?,MEDIUM
+Who teach this lecture,TEACHER
+Who is the lecturer for this class?,TEACHER
+"For this class, who is the lecturer?",TEACHER
+What is the name of the professor for this course?,TEACHER
+How many people will teach this course,TEACHER
+What is the estimated number of persons who will teach this course?,TEACHER
+What is the expected number of instructors for this course?,TEACHER
+How many persons are going to teach this class?,TEACHER
+Any teaching assistants,TEACHER
+Are there any teaching assistants?,TEACHER
+Any aides to the teacher,TEACHER
+Any teaching helpers available?,TEACHER
+teacher,TEACHER
+teachers,TEACHER
+teaching assistant,TEACHER
+Who is the teacher,TEACHER
+Who will teach,TEACHER
+Who teach ,TEACHER
+Will Dr. Chan teach,TEACHER
+Is there any TA,TEACHER
+Will there have TA,TEACHER
+Are there any TA,TEACHER
+Do I need to attend extra lesson,TUTORIAL_INFO
+Is there any tutorial ,TUTORIAL_INFO
+What the tutorial teach,TUTORIAL_INFO
+What the tutorial do,TUTORIAL_INFO
+What does the tutorial accomplish?,TUTORIAL_INFO
+What does the tutorial help achieve?,TUTORIAL_INFO
+How many lesson of tutorial,TUTORIAL_INFO
+How many tutorial lesson,TUTORIAL_INFO
+What the tutorial talk about,TUTORIAL_INFO
+what will we need to do in the tutorial,TUTORIAL_INFO
+tutorial ,TUTORIAL_INFO
+can I not attend tutorial ,TUTORIAL_INFO
+have tut,TUTORIAL_INFO
+are there any tut,TUTORIAL_INFO
+this course have tut,TUTORIAL_INFO
+have tut or not,TUTORIAL_INFO
+any tutorial,TUTORIAL_INFO
+any tut,TUTORIAL_INFO
+tutorial do what,TUTORIAL_INFO

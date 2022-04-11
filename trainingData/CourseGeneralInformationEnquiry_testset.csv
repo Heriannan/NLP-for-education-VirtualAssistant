@@ -1,0 +1,89 @@
+﻿text,label
+How to call this course,COURSE_NAME
+What is the name of this course,COURSE_NAME
+title of this course,COURSE_NAME
+Please tell me the name of this course,COURSE_NAME
+name of this class,COURSE_NAME
+What is the course's title?,COURSE_NAME
+What's the course's name?,COURSE_NAME
+Is there any name for this course,COURSE_NAME
+name of the lecturer,TEACHER
+Is Mr Chan the lecturer?,TEACHER
+Is Chan Tai Man the professor?,TEACHER
+Who can I ask for assistance?,TEACHER
+Who can I turn to for help?,TEACHER
+Can you list the professor name of this course?,TEACHER
+Who is the teacher,TEACHER
+Is there any teaching assistant,TEACHER
+What is the aims of offering this course to students?,COURSE_DESP
+What can I learn from this course?,COURSE_DESP
+Can you brifely describe this course?,COURSE_DESP
+Any description of this course?,COURSE_DESP
+What this course will teach?,COURSE_DESP
+"describe the course, please",COURSE_DESP
+Can you describe the course,COURSE_DESP
+What I can learn from this course,COURSE_DESP
+credit of this course,CREDIT_UNIT
+the credit I can earn from this course,CREDIT_UNIT
+credit unit,CREDIT_UNIT
+unit of credit,CREDIT_UNIT
+count of credit,CREDIT_UNIT
+Tell me the credit of the course,CREDIT_UNIT
+Do this course have credit count,CREDIT_UNIT
+How many credit can I earn,CREDIT_UNIT
+Is it general education course?,GE_PROPOSED_AREA
+Is ge?,GE_PROPOSED_AREA
+Is it an area 3 course?,GE_PROPOSED_AREA
+which area do this course belongs?,GE_PROPOSED_AREA
+is it a major course?,GE_PROPOSED_AREA
+ge course?,GE_PROPOSED_AREA
+What general requirement area this course belongs to,GE_PROPOSED_AREA
+Is it a GE course,GE_PROPOSED_AREA
+medium of the instructor iused,MEDIUM
+language of the lecturer speak,MEDIUM
+written assignment language,MEDIUM
+medium of the assignment,MEDIUM
+Will the teacher speak english,MEDIUM
+Will the teacher speak chinese,MEDIUM
+What is the writen language,MEDIUM
+Which language is needed to do the assignments,MEDIUM
+What is the prerequisites ,COURSE_REGISTRATION
+What is the precursor,COURSE_REGISTRATION
+What is the equivalent course,COURSE_REGISTRATION
+prerequisites of this course,COURSE_REGISTRATION
+precursor of the course,COURSE_REGISTRATION
+replacement of the course,COURSE_REGISTRATION
+excluded course after taking this course,COURSE_REGISTRATION
+What is the exclusive courses ,COURSE_REGISTRATION
+have tutorial?,TUTORIAL_INFO
+tutorial will take attendance?,TUTORIAL_INFO
+description of tutorial,TUTORIAL_INFO
+tutorial information,TUTORIAL_INFO
+tutorials,TUTORIAL_INFO
+Will the course have tutorial,TUTORIAL_INFO
+What the tutorial talk about,TUTORIAL_INFO
+What can I learn from tutorial,TUTORIAL_INFO
+Do teachers give assignment,ASSESSMENT_INFO
+When must I come to school,COURSE_START_DAY
+start day of course,COURSE_START_DAY
+first day of class,COURSE_START_DAY
+1 day to come to class,COURSE_START_DAY
+start day of class,COURSE_START_DAY
+the begin date of class,COURSE_START_DAY
+1st date of class,COURSE_START_DAY
+When will the teacher start teaching,COURSE_START_DAY
+What type of assignments will this course have,ASSESSMENT_INFO
+Explain the details of assignments,ASSESSMENT_INFO
+describe the assignments,ASSESSMENT_INFO
+How the assignments weight,ASSESSMENT_INFO
+what is the score percentage of assignment,ASSESSMENT_INFO
+What is the deadline of assignments,ASSESSMENT_INFO
+When is the last day of submitting assignment,ASSESSMENT_INFO
+The syllabus of course is,COURSE_SYLLABUS
+what is the syllabus,COURSE_SYLLABUS
+what is the curriculum,COURSE_SYLLABUS
+list the syllabus to me ,COURSE_SYLLABUS
+how the lecture arranged,COURSE_SYLLABUS
+schedule of lecture,COURSE_SYLLABUS
+topic of lecture,COURSE_SYLLABUS
+all the topic of lecture,COURSE_SYLLABUS
