@@ -22,6 +22,8 @@ distilbert:https://colab.research.google.com/drive/1a143XsZgttuaMVxA12mMDWLdERj5
 roberta: https://colab.research.google.com/drive/1PVUU8K4CJMHPXAe2Ms3QUH6xCyLKZ3Ra#scrollTo=JrBr2YesGdO_  
 bert base uncased: https://colab.research.google.com/drive/1YvWN8gI1KpUDEpPM-iB8e4lMuSerB51g#scrollTo=UNiPzsfz_oHN  
   
-**The above model training scripts references on the below authors.  
+**The above model training scripts references on the below authors.  **
 1.https://github.com/datawhalechina/learn-nlp-with-transformers/blob/main/docs/%E7%AF%87%E7%AB%A04-%E4%BD%BF%E7%94%A8Transformers%E8%A7%A3%E5%86%B3NLP%E4%BB%BB%E5%8A%A1/4.3-%E9%97%AE%E7%AD%94%E4%BB%BB%E5%8A%A1-%E6%8A%BD%E5%8F%96%E5%BC%8F%E9%97%AE%E7%AD%94.ipynb  
 2.https://colab.research.google.com/github/abhimishra91/transformers-tutorials/blob/master/transformers_multiclass_classification.ipynb  
+
+The sentiment analysis dataset id a modified version of 100K Coursera's Course Reviews Dataset. (https://www.kaggle.com/datasets/septa97/100k-courseras-course-reviews-dataset/code)
