@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+{% block content %}
+    <html lang="en">
+
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+        <meta http-equiv="X-UA-Compatible" content="IE=11,Edge,chrome=1">
+        <title>NLPEC</title>
+
+        {% load static %}
+        <link href="{% static 'css/bootstrap.min.css' %}" rel="stylesheet" type="text/css">
+        <link href="{% static 'css/mainCSS.css' %}" rel="stylesheet" type="text/css">
+        <link href="{% static 'DataTables/datatables.css' %}" rel="stylesheet" type="text/css">
+        <link href="{% static 'Year-Picker-Text-Input/dist/yearpicker.css' %}" rel="stylesheet" type="text/css">
+
+        {#        <link rel="stylesheet" type="text/css" href="{% static 'css/bootstrap-select.min.css' %}">#}
+        {#        <link rel="stylesheet" type="text/css" href="{% static 'css/jquery-ui.min.css' %}">#}
+    </head>
+    <body>
+    <div>
+        <header class="d-flex justify-content-center">Natural Language Processing Educational Chatbot</header>
+        <h3 class="d-flex justify-content-center"> Course Enquire</h3>
+        <div class="alert alert-success text-center" role="alert">
+            ☑ <strong id="current_login_name">{{ current_login }}</strong> is successfully logged in.
+        </div>
+    </div>
+
+    <hr>
+    <div id="searchForm">
+        <div class="d-flex bg-light">
+            <div class="padding_left_right_10px">
+                <form name="search" class="form-inline d-xl-flex">
+                    <div class="m-2 form-check">
+                        <input type="checkbox" class="form-check-input" id="case_created_by_you" value="">
+                        <label class="form-check-label" for="exampleCheck1">Record(s) Created By You</label>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <div class="d-flex bg-light">
+            <div class="padding_left_right_10px">
+                <form name="search" class="form-inline d-xl-flex">
+                    <span class="m-2 formfields">Course Code:
+                        <input class="form-control-sm form-control " type="search" id="course_code" name="course_code">
+                    </span>
+
+                    <span class="m-2 formfields">Course Name:
+                        <input class="form-control-sm form-control " type="search" id="course_name" name="course_name">
+                    </span>
+                    <span class="m-2 formfields">Academic Year From:
+                        <input class="form-control-sm form-control yearpicker" id="academic_year_from" type="text"
+                               name="academic_year_from" placeholder="From Date"/>
+                        <span>To</span>
+                        <input class="form-control-sm form-control yearpicker" id="academic_year_to" type="text"
+                               name="academic_year_to" placeholder="Today"
+                        />
+
+                    </span>
+
+
+                </form>
+            </div>
+        </div>
+
+    </div>
+
+
+    <button class="m-1 btn btn-primary" id="btnSearch" type="submit">Search</button>
+    <button class="m-1 btn btn-primary" id="btnSearchbtnClear" type="submit">Clear</button>
+    <button class="btn btn-info " id=btnAdd type="button"
+            onclick="window.open('/nlpApp/courseRegistration/');">
+        <span id="linkAdd">Register New Course Record</span>
+    </button>
+
+
+    </div>
+    <div class="table-responsive table-condensed table-resizable" id="table">
+        {#    <div id="tableSection">#}
+        <table id="datatable" class="table compact no-footer display nowrap table-bordered table-resizable">
+            <thead id=tableHeader>
+            <tr>
+                {#    ------------------------------close case button ------------------------------------------------------#}
+                {#                    <th class="select_case"></th>#}
+                <th class="action">Action</th>
+                <th class="COURSE_CODE">Course Code</th>
+                <th class="COURSE_NAME">Course Name</th>
+                <th class="ACADEMIC_YEAR">Academic Year</th>
+                <th class="ACADEMIC_SEMESTER">Semester</th>
+                <th class="TEACHER_LECTURER">Lecturer(s)</th>
+                <th class="COURSE_DESP">Course Description</th>
+                <th class="CREATED_BY">Record Creator</th>
+                {#                    <th class="LAST_UPDATE_DATE">Last Update Date</th>#}
+            </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+
+    {% csrf_token %}
+    </script>
+    <script src="{% static 'jquery-3.5.1.min.js' %}"></script>
+    {#    <script src="{% static 'jquery-ui.min.js' %}"></script>#}
+    <script src="{% static 'bootstrap.min.js' %}"></script>
+    <script src="{% static 'jquery.md5.js' %}"></script>
+    <script src="{% static 'Year-Picker-Text-Input/dist/yearpicker.js' %}"></script>
+
+    <script src="{% static 'DataTables/datatables.js' %}" type="text/javascript" charset="utf8"></script>
+    {#    <script src="{% static 'DataTables/DataTables-1.11.3/js/jquery.dataTables.js' %}" type="text/javascript" charset="utf8" ></script>#}
+    <script src="{% static 'DataTables/SearchBuilder-1.3.0/js/dataTables.searchBuilder.js' %}" type="text/javascript"
+            charset="utf8"></script>
+    {#    <script src="{% static 'bootstrap-select.min.js' %}"></script>#}
+    <script src="{% static 'courseEnquire.js' %}" defer></script>
+
+
+    </body>
+
+    </html>
+{% endblock %}
+

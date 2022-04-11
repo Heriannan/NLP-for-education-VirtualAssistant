@@ -1,0 +1,77 @@
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+
+header{
+    font-family: 'sans-serif';
+    /*font-family: "Roboto", "Lucida Grande", Verdana, Arial, sans-serif;*/
+    font-size: 30px;
+    color: #104e88;
+    font-weight: bold;
+}
+
+.login_header{
+    font-family: 'Lobster';
+    font-size: 30px;
+    margin-top: 10px;
+    color: #85abce;
+}
+
+.login_box hr{
+    border: 1px solid #85abce96;
+}
+.border{
+    border-width: 5px !important;
+    border-color: white !important;
+}
+.flex{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  width:600px;
+  height:600px;
+}
+
+.login_box{
+    background-color: white;
+}
+
+body{
+    margin: 20px;
+    background-color: #85abce5c;
+}
+
+#login_error{
+    color: red;
+    font-style: italic;
+}
+
+/*datatable*/
+#tableSection {
+  padding-left: 40px;
+}
+
+.table{
+  background-color: #FFFFFF;
+  word-wrap:break-word;
+}
+
+tr{
+
+  word-wrap:break-word;
+}
+
+td{
+   max-height: 100px;
+  overflow-y:auto;
+}
+
+h3{
+    font-family: 'sans-serif';
+}
+
+input, select, textarea{
+    margin-left: 3px;
+}
+
+#case_action{
+    margin-top: 3px;
+}
