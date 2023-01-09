@@ -31,5 +31,5 @@ The sentiment analysis dataset is a modified version of 100K Coursera's Course R
 
 ## Demo Link
 https://drive.google.com/file/d/1waEB2-HGNotYF33EMUu22IfZB5zaD4Lv/view
-- Webpage Demo starts from: 0:46
+- Webpage Demo starts from 0:46
 - Telegram AI chatbot Demo starts from 08:21
