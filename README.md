@@ -28,3 +28,6 @@ bert base uncased: https://colab.research.google.com/drive/1YvWN8gI1KpUDEpPM-iB8
 
 ## Training Data
 The sentiment analysis dataset is a modified version of 100K Coursera's Course Reviews Dataset. (https://www.kaggle.com/datasets/septa97/100k-courseras-course-reviews-dataset/code)
+
+## Demo Link
+https://drive.google.com/file/d/1waEB2-HGNotYF33EMUu22IfZB5zaD4Lv/view
