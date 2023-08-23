@@ -33,3 +33,10 @@ The sentiment analysis dataset is a modified version of 100K Coursera's Course R
 https://drive.google.com/file/d/1waEB2-HGNotYF33EMUu22IfZB5zaD4Lv/view
 - Webpage Demo starts from 0:46
 - Telegram AI chatbot Demo starts from 08:21
+
+## Paper
+CityU Computer Science - Undergraduate Final Year Projects Collection
+- http://dspace.cityu.edu.hk/handle/2031/9560
+  
+IEEE International Conference on Teaching, Assessment and Learning for Engineering (TALE)
+- https://ieeexplore.ieee.org/abstract/document/10148217
